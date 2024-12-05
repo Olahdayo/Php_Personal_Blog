@@ -1,2 +1,2 @@
 First test project in PHP to create an CRUD blog post...
-Buit with PHP and MQSQL and hosted online for testing. 
+Buit with PHP and MySQL and hosted online for testing. 
